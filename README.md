@@ -1,1 +1,1 @@
-# canvas-clsss-particles
+# canvas-class-particles
